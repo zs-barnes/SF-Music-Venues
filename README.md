@@ -19,5 +19,6 @@ information, and the KnockoutJS and Jquery frameworks.
 - https://developers.google.com/maps/
 - https://www.sitepoint.com/google-maps-javascript-api-the-right-way/
 - https://www.w3schools.com/howto/howto_js_sidenav.asp
+- https://www.w3schools.com/howto/howto_js_filter_lists.asp
 - https://ao.gl/keep-google-map-v3-centered-when-browser-is-resized/
 
