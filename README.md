@@ -1,7 +1,7 @@
 # SF-Music-Venues
 Web application that displays locations and information about various music venues in 
 San Francisco. Uses the Google Maps API for maps features, Foursquare API for venue
-information, and the KnockoutJS framework.
+information, and the KnockoutJS and Jquery frameworks.
 
 ### Usage 
 1) Clone the repository. 
