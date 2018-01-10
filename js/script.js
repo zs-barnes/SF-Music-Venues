@@ -505,12 +505,6 @@ function viewModel() {
 	};
 	this.initMap();
 
-	errorAlert = function errorAlert() {
-		alert(
-			"There was an error loading the Google maps"
-		);
-	};
-
 	//filter function for search bar, list, and markers
 	this.search = ko.observable("");
 	this.filter = ko.computed(function () {
@@ -540,6 +534,12 @@ function closeNav() {
 	document.getElementById("main").style.marginLeft = "0";
 	document.getElementById("map").style.marginLeft = "0";
 }
+
+googleError = function googleError() {
+		alert(
+			"There was an error loading the Google maps"
+		);
+	};
 
 function startApp() {
 	ko.applyBindings(new viewModel());
