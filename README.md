@@ -4,10 +4,13 @@ San Francisco. Uses the Google Maps API for maps features, Foursquare API for ve
 information, and the KnockoutJS and Jquery frameworks.
 
 ### Usage 
-1) Clone the repository. 
-2) Change directories using the `CD` command in the terminal
-3) Use the `python -m SimpleHTTPServer` to run a local host server
-5) open http://localhost:8000/ in your favorite browser!
+Check out the website hosted here: 
+https://zs-barnes.github.io/SF-Music-Venues/
+or
+
+1) Clone the repository 
+2) Open the index.html file!
+
 >Now you can explore the website by:
 - Clicking on a marker to view the venue's address and website
 - Clicking the hambuger icon to open a search menu sidebar
