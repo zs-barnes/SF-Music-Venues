@@ -24,4 +24,5 @@ or
 - https://www.w3schools.com/howto/howto_js_sidenav.asp
 - https://www.w3schools.com/howto/howto_js_filter_lists.asp
 - https://ao.gl/keep-google-map-v3-centered-when-browser-is-resized/
+- https://discussions.udacity.com/t/handling-google-maps-in-async-and-fallback/34282
 
